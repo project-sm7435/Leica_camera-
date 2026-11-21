@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b9i">40.0dp</dimen>
+    <dimen name="bds">228.5dp</dimen>
+    <dimen name="ccx">17.169983dp</dimen>
+    <dimen name="ccz">17.169983dp</dimen>
+    <dimen name="cup">102.0dp</dimen>
+    <dimen name="d39">149.573dp</dimen>
+    <dimen name="d4m">30.299988dp</dimen>
+    <dimen name="d57">55.559998dp</dimen>
+    <dimen name="d67">68.69dp</dimen>
+    <dimen name="d68">98.98999dp</dimen>
+    <dimen name="d89">23.919983dp</dimen>
+</resources>

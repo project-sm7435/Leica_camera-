@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="zero">Nofokusēts. %d sejas atrastas</item>
+        <item quantity="one">Nofokusēts. %d seja atrasta</item>
+        <item quantity="other">Nofokusēts. %d sejas atrastas</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="zero">%d foto sērījveida foto uzņemšanā</item>
+        <item quantity="one">%d foto sērījveida foto uzņemšanā</item>
+        <item quantity="other">%d foto sērījveida foto uzņemšanā</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="zero">Intervāls: %d sekundes</item>
+        <item quantity="one">Intervāls: %d sekunde</item>
+        <item quantity="other">Intervāls: %d sekundes</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="zero">Ilgums: %d minūtes</item>
+        <item quantity="one">Ilgums: %d minūte</item>
+        <item quantity="other">Ilgums: %d minūtes</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="zero">Ātrums: %dX</item>
+        <item quantity="one">Ātrums: %dX</item>
+        <item quantity="other">Ātrums: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="zero">Ilgums: %d sekundes</item>
+        <item quantity="one">Ilgums: %d sekunde</item>
+        <item quantity="other">Ilgums: %d sekundes</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="zero">Ievadītas %d rakstzīmes.</item>
+        <item quantity="one">Ievadīta %d rakstzīme.</item>
+        <item quantity="other">Ievadītas %d rakstzīmes.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="zero">Ievadiet līdz %d rakstzīmēm.</item>
+        <item quantity="one">Ievadiet līdz %d rakstzīmei.</item>
+        <item quantity="other">Ievadiet līdz %d rakstzīmēm.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="zero">Tam pašam tīklam varat pievienot līdz %d kamerām</item>
+        <item quantity="one">Tam pašam tīklam varat pievienot līdz %d kamerai</item>
+        <item quantity="other">Tam pašam tīklam varat pievienot līdz %d kamerām</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="zero">Tam pašam tīklam varat pievienot līdz %d monitoriem</item>
+        <item quantity="one">Tam pašam tīklam varat pievienot līdz %d monitoram</item>
+        <item quantity="other">Tam pašam tīklam varat pievienot līdz %d monitoriem</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="zero">Jūs varat izveidot līdz pat %d kloniem vienā reizē.</item>
+        <item quantity="one">Jūs varat izveidot līdz pat %d klonam vienā reizē.</item>
+        <item quantity="other">Jūs varat izveidot līdz pat %d kloniem vienā reizē.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="zero">&lt;Data>Nevar izveidot savienojumu ar kameru.&lt;br>Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>.Pēc tam, uzgaidiet dažas minūtes un mēģiniet vēlreiz.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Nevar izveidot savienojumu ar kameru.&lt;br>Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>.Pēc tam, uzgaidiet dažas minūtes un mēģiniet vēlreiz.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Nevar izveidot savienojumu ar kameru.&lt;br>Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>.Pēc tam, uzgaidiet dažas minūtes un mēģiniet vēlreiz.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="zero">&lt;Data>Šī ierīce tagad ir pārāk karsta.&lt;br> Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$dsek&lt;/b>&lt;/font>. Pašreizējais progress tika saglabāts automātiski.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Šī ierīce tagad ir pārāk karsta.&lt;br> Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$dsek&lt;/b>&lt;/font>. Pašreizējais progress tika saglabāts automātiski.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Šī ierīce tagad ir pārāk karsta.&lt;br> Šī lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$dsek&lt;/b>&lt;/font>. Pašreizējais progress tika saglabāts automātiski.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="zero">&lt;Data>Jūsu izmantotā Kameras versija nav saderīga ar jūsu ierīces modeli.&lt;br>Lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Atinstalējiet Kameras atjauninājumus un mēģiniet vēlreiz.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Jūsu izmantotā Kameras versija nav saderīga ar jūsu ierīces modeli.&lt;br>Lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Atinstalējiet Kameras atjauninājumus un mēģiniet vēlreiz.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Jūsu izmantotā Kameras versija nav saderīga ar jūsu ierīces modeli.&lt;br>Lietotne tiks aizvērta pēc &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Atinstalējiet Kameras atjauninājumus un mēģiniet vēlreiz.&lt;/Data></item>
+    </plurals>
+    <plurals name="eoy">
+        <item quantity="zero">Pārtīt uz priekšu par %d sekundēm</item>
+        <item quantity="one">Pārtīt uz priekšu par %d sekundi</item>
+        <item quantity="other">Pārtīt uz priekšu par %d sekundēm</item>
+    </plurals>
+    <plurals name="eoz">
+        <item quantity="zero">Attīt atpakaļ par %d sekundēm</item>
+        <item quantity="one">Attīt atpakaļ par %d sekundi</item>
+        <item quantity="other">Attīt atpakaļ par %d sekundēm</item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="zero">%1$d minūtes</item>
+        <item quantity="one">%1$d minūte</item>
+        <item quantity="other">%1$d minūtes</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="zero">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+        <item quantity="other">%1$d sek</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="zero">Taimeris ir ieslēgts (%1$d sekundes). Foto tiks pārsūtīti uz šo ierīci.</item>
+        <item quantity="one">Taimeris ir ieslēgts (%1$d sekunde). Foto tiks pārsūtīti uz šo ierīci.</item>
+        <item quantity="other">Taimeris ir ieslēgts (%1$d sekundes). Foto tiks pārsūtīti uz šo ierīci.</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="zero">Dzēst %1$d melnrakstus?</item>
+        <item quantity="one">Dzēst %1$d melnrakstu?</item>
+        <item quantity="other">Dzēst %1$d melnrakstus?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="zero">Pievienot līdz %d sākotnējiem iestatījumiem</item>
+        <item quantity="one">Pievienot līdz %d sākotnējam iestatījumam</item>
+        <item quantity="other">Pievienot līdz %d sākotnējiem iestatījumiem</item>
+    </plurals>
+    <plurals name="ep5">
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+        <item quantity="other">%d jauni paziņojumi</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="zero">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="zero">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+        <item quantity="other">%1$s min.</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="zero">Ierakstīt %d sekundes</item>
+        <item quantity="one">Ierakstīt %d sekundi</item>
+        <item quantity="other">Ierakstīt %d sekundes</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="zero">Jūs varat uzņemt laika iesaldēšanas video ar %d objektiem.</item>
+        <item quantity="one">Jūs varat uzņemt laika iesaldēšanas video ar %d objektu.</item>
+        <item quantity="other">Jūs varat uzņemt laika iesaldēšanas video ar %d objektiem.</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="zero">%1$s foto</item>
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s foto</item>
+    </plurals>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="eok">
+        <item quantity="one">Gefocust. %d gezicht gedetecteerd</item>
+        <item quantity="other">Gefocust. %d gezichten gedetecteerd</item>
+    </plurals>
+    <plurals name="eol">
+        <item quantity="one">%d foto in een burst-opname</item>
+        <item quantity="other">"%d foto's in een burst-opname"</item>
+    </plurals>
+    <plurals name="eom">
+        <item quantity="one">Interval: %d seconde</item>
+        <item quantity="other">Interval: %d seconden</item>
+    </plurals>
+    <plurals name="eon">
+        <item quantity="one">Duur: %d minuut</item>
+        <item quantity="other">Duur: %d minuten</item>
+    </plurals>
+    <plurals name="eoo">
+        <item quantity="one">Snelheid: %dX</item>
+        <item quantity="other">Snelheid: %dX</item>
+    </plurals>
+    <plurals name="eop">
+        <item quantity="one">Duur: %d seconde</item>
+        <item quantity="other">Duur: %d seconden</item>
+    </plurals>
+    <plurals name="eoq">
+        <item quantity="one">%d teken ingevoerd.</item>
+        <item quantity="other">%d tekens ingevoerd.</item>
+    </plurals>
+    <plurals name="eor">
+        <item quantity="one">Voer maximaal %d teken in.</item>
+        <item quantity="other">Voer maximaal %d tekens in.</item>
+    </plurals>
+    <plurals name="eos">
+        <item quantity="one">U kunt maximaal %d camera op hetzelfde netwerk aansluiten</item>
+        <item quantity="other">"U kunt maximaal %d camera's op hetzelfde netwerk aansluiten"</item>
+    </plurals>
+    <plurals name="eot">
+        <item quantity="one">U kunt maximaal %d monitor op hetzelfde netwerk aansluiten</item>
+        <item quantity="other">U kunt maximaal %d monitoren op hetzelfde netwerk aansluiten</item>
+    </plurals>
+    <plurals name="eou">
+        <item quantity="one">U kunt maximaal maken %d kloon tegelijk.</item>
+        <item quantity="other">U kunt maximaal maken %d klonen tegelijk.</item>
+    </plurals>
+    <plurals name="eov">
+        <item quantity="one">&lt;Data>Kan geen verbinding maken met de camera.&lt;br>Deze app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. Wacht daarna een minuut of twee en probeer het opnieuw.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Kan geen verbinding maken met de camera.&lt;br>Deze app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. Wacht daarna een minuut of twee en probeer het opnieuw.&lt;/Data></item>
+    </plurals>
+    <plurals name="eow">
+        <item quantity="one">&lt;Data>Dit apparaat is nu te heet.&lt;br>De app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. De huidige voortgang is automatisch opgeslagen.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Dit apparaat is nu te heet.&lt;br>De app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. De huidige voortgang is automatisch opgeslagen.&lt;/Data></item>
+    </plurals>
+    <plurals name="eox">
+        <item quantity="one">&lt;Data>De Cameraversie die u gebruikt, is niet compatibel met uw apparaatmodel.&lt;br>De app sluit over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Verwijder Camera-updates en probeer het opnieuw.&lt;/Data></item>
+        <item quantity="other">&lt;Data>De Cameraversie die u gebruikt, is niet compatibel met uw apparaatmodel.&lt;br>De app sluit over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Verwijder Camera-updates en probeer het opnieuw.&lt;/Data></item>
+    </plurals>
+    <plurals name="eoy">
+        <item quantity="one">%d seconde vooruitspoelen</item>
+        <item quantity="other">%d seconden vooruitspoelen</item>
+    </plurals>
+    <plurals name="eoz">
+        <item quantity="one">%d seconde terugspoelen</item>
+        <item quantity="other">%d seconden terugspoelen</item>
+    </plurals>
+    <plurals name="ep0">
+        <item quantity="one">%1$d min.</item>
+        <item quantity="other">%1$d min.</item>
+    </plurals>
+    <plurals name="ep1">
+        <item quantity="one">%1$d sec</item>
+        <item quantity="other">%1$d sec</item>
+    </plurals>
+    <plurals name="ep2">
+        <item quantity="one">"Timer ingeschakeld (%1$d sec). Foto's worden overgezet naar dit apparaat."</item>
+        <item quantity="other">"Timer ingeschakeld (%1$d sec). Foto's worden overgezet naar dit apparaat."</item>
+    </plurals>
+    <plurals name="ep3">
+        <item quantity="one">Verwijder %1$d concept?</item>
+        <item quantity="other">Verwijder %1$d concepten?</item>
+    </plurals>
+    <plurals name="ep4">
+        <item quantity="one">Voeg maximaal %d preset toe</item>
+        <item quantity="other">Voeg maximaal %d presets toe</item>
+    </plurals>
+    <plurals name="ep5">
+        <item quantity="one">%d nieuwe melding</item>
+        <item quantity="other">%d nieuwe meldingen</item>
+    </plurals>
+    <plurals name="ep6">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="ep7">
+        <item quantity="one">%1$s min.</item>
+        <item quantity="other">%1$s min.</item>
+    </plurals>
+    <plurals name="ep8">
+        <item quantity="one">Neem %d seconde op</item>
+        <item quantity="other">Neem %d seconden op</item>
+    </plurals>
+    <plurals name="ep9">
+        <item quantity="one">"U kunt alleen video's met stilstaande tijd opnemen met %d onderwerp."</item>
+        <item quantity="other">"U kunt video's met stilstaande tijd opnemen met maximaal %d onderwerpen."</item>
+    </plurals>
+    <plurals name="ep_">
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">"%1$s foto's"</item>
+    </plurals>
+</resources>
